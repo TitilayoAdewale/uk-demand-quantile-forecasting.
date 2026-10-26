@@ -1,0 +1,4 @@
+model,pinball_0.1,pinball_0.5,pinball_0.9,coverage_80,mean_width_80,avg_pinball
+Linear quantile regression (thesis baseline),381.195,813.221,365.215,0.772,5157.265,519.877
+Gradient boosting (quantile loss),621.426,896.366,347.89,0.548,3150.327,621.894
+Random forest (tree-spread quantiles),440.572,805.67,397.927,0.525,3141.626,548.056
